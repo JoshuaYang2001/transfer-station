@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+
+node_modules/
+dist/
+
+deploy/new-api/bin/
+deploy/new-api/data/
+deploy/new-api/logs/
+
+*.db
+*.db-shm
+*.db-wal
+*.log
+npm-debug.log*
