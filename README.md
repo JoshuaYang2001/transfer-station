@@ -2,6 +2,8 @@
 
 > 基于 Node.js + TypeScript + Fastify + Redis 的大模型 API 混合账号池代理服务
 
+本地同时运行 HAPS Proxy 与 New API 管理面板，请参考 [本地联调指南](docs/LOCAL_DEVELOPMENT.md)。
+
 ## 项目结构
 
 ```
